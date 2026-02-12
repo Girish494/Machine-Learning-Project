@@ -1,16 +1,31 @@
 # Machine Learning Project
 
 ## 📌 Overview
-This project implements a Machine Learning model to predict [target variable] using [algorithm name].  
-The goal is to analyze the dataset and build a model that provides accurate predictions.
+his repository is a collection of Machine Learning projects created to practice and strengthen understanding of different ML algorithms. Each project focuses on applying various techniques to real-world datasets, performing data preprocessing, feature engineering, model training, evaluation, and comparison.
 
+The primary goal is to gain hands-on experience by implementing and comparing multiple algorithms across different problem types (regression and classification). Performance is evaluated using appropriate metrics such as R², MAE, RMSE, accuracy, precision, recall, and cross-validation scores.
+
+Through these projects, the repository demonstrates:
+
+Practical implementation of supervised learning algorithms
+
+Data preprocessing and feature scaling techniques
+
+Model evaluation and comparison
+
+Hyperparameter tuning and performance improvement
+
+End-to-end ML workflow from data to prediction
+
+This repository serves as a structured practice space for improving Machine Learning concepts and building a strong project portfolio.
 ---
 
 ## 📊 Dataset
-- Source: [Dataset source or link]
-- Number of samples: [e.g., 10,000]
-- Number of features: [e.g., 8]
-- Target variable: [e.g., Price]
+1] For Linear Regression Model 
+- Source: [kagglehub.dataset_download("rkiattisak/salaly-prediction-for-beginer")]
+- Number of samples: [373 rows]
+- Number of features: [5]
+- Target variable: [Salary]
 
 ---
 
@@ -49,4 +64,8 @@ The goal is to analyze the dataset and build a model that provides accurate pred
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Girish494/Machine-Learning-Project.git
+
+2. Navigate to project folder: cd Machine Learning Projects
+
+3. Install dependencies: pip install -r requirements.txt
