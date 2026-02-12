@@ -1,7 +1,7 @@
 # Machine Learning Project
 
 ## 📌 Overview
-his repository is a collection of Machine Learning projects created to practice and strengthen understanding of different ML algorithms. Each project focuses on applying various techniques to real-world datasets, performing data preprocessing, feature engineering, model training, evaluation, and comparison.
+This repository is a collection of Machine Learning projects created to practice and strengthen understanding of different ML algorithms. Each project focuses on applying various techniques to real-world datasets, performing data preprocessing, feature engineering, model training, evaluation, and comparison.
 
 The primary goal is to gain hands-on experience by implementing and comparing multiple algorithms across different problem types (regression and classification). Performance is evaluated using appropriate metrics such as R², MAE, RMSE, accuracy, precision, recall, and cross-validation scores.
 
